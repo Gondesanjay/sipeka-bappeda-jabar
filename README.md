@@ -1,8 +1,7 @@
 Markdown
 # 📊 SIPEKA - BAPPEDA Jawa Barat
 
-![SIPEKA Banner](https://via.placeholder.com/1000x500.png?text=Dashboard+Eksekutif+SIPEKA+-+Screenshot+Aplikasi)
-*(Catatan: Ganti link gambar di atas dengan screenshot aplikasi SIPEKA-mu yang paling keren!)*
+![SIPEKA Banner] (banner.png)
 
 ## 📖 Deskripsi Proyek
 **SIPEKA (Sistem Informasi Perencanaan dan Evaluasi Kinerja Daerah)** adalah purwarupa aplikasi Dashboard Eksekutif yang dirancang untuk membantu pimpinan dan pemangku kebijakan (BAPPEDA) dalam memantau realisasi anggaran dan progres pembangunan proyek secara *real-time* di seluruh wilayah administratif Provinsi Jawa Barat.

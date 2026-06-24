@@ -47,11 +47,3 @@ Proyek ini dikembangkan oleh Ikmal Rizal sebagai pemenuhan Tugas Akhir untuk mat
 Dibuat dengan ❤️ untuk kemajuan tata kelola digital di Indonesia.
 
 
-### **Trik Tambahan agar README Makin Keren:**
-Kalau kamu perhatikan, di bagian atas kode *markdown* tersebut ada bagian `![SIPEKA Banner](...)`. 
-Agar GitHub-mu terlihat super meyakinkan, ambil 1 *screenshot* tampilan SIPEKA kamu yang paling bagus (misalnya pas menampilkan Peta dan *Card*), simpan dengan nama `banner.png` di proyekmu, dan ganti baris gambar di atas menjadi:
-`![SIPEKA Banner](./banner.png)`
-
-Setelah file `README.md` ini disimpan, jalankan lagi `git add .`, lalu `git commit -m "docs: menambahkan README.md"`, dan `git push` ke GitHub.
-
-Setelah *push* ini selesai, kita tinggal *login* ke Vercel dan *deploy* aplikasinya! S
